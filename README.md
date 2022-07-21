@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 	*{
-	background-color:gold;
+	background-image: linear-gradient(to right, #3e7cb5, #009bd0, #00b9d4, #00d4bf, #12eb96);
 	margin:0;
 	padding:0;
 	}
